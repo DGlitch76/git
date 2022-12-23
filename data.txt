@@ -2,3 +2,4 @@ Course: Ironhack Full-Stack Developer
 Year: 2022
 Location: Remote
 Version: 0.2
+Phase: Prework - Testing connection Git/GitHub
