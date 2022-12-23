@@ -3,3 +3,4 @@ Year: 2022
 Location: Remote
 Version: 0.2
 Phase: Prework - Testing connection Git/GitHub
+Status: Stuck - Something not wotking right at the end
