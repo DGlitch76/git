@@ -1,0 +1,3 @@
+Action: Testing Pull & Push from both Git & GitHub
+Process: Create, Move, Copy files with Git locally and send to GitHub + reverse process (from GitHub to Git)
+Goal: better compreend and practice working with Git and GitHub
